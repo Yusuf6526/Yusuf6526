@@ -6,4 +6,4 @@
 - 📚 I love reading new books, meeting new people, learning new languages, and I LİKE NEW THINGS.
 
 Bana Ulaşın
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://www.instagram.com/_yussuf12/,https://www.linkedin.com/in/yusuf-oyan-288644248/)
