@@ -10,7 +10,7 @@ Bana Ulaşın:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_yussuf12/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusuf-oyan-288644248/)
 
-Kullandığım araçlar:
+Kullandığım uygulamalar:
 
 [![My Skills](https://skillicons.dev/icons?i=blender,matlab,ps,py,pycharm,vscode,=3)](https://skillicons.dev)
 
