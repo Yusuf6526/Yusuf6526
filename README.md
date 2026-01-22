@@ -5,6 +5,5 @@
 - 📫 You can reach me at: oyanyusuf65@gmail.com
 - 📚 I love reading new books, meeting new people, learning new languages, and I LİKE NEW THINGS.
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/_yussuf12/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-square&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/yusuf-oyan-288644248/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=quare&labelColor=000&logo=Instagram&logoColor=white&link=link)](https://www.instagram.com/_yussuf12/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/yusuf-oyan-288644248/) 
